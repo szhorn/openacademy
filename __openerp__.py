@@ -1,4 +1,3 @@
-#
 {
     'name' : "Open Academy",
     'summary' : """Manage trainings""",
